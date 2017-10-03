@@ -1,0 +1,13 @@
+many to one (total particpation)
+    -wolf to pack role
+        every wolf needs a role
+
+many to many
+    -wolf to status type shows many to many through status table
+
+ternary
+    -gps_location to location
+    -prey to location
+    -biome to location
+
+
