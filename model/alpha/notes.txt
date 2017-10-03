@@ -2,6 +2,8 @@ many to one (total particpation)
     -wolf to pack role
         every wolf needs a role
 
+    redo this one
+
 many to many
     -wolf to status type shows many to many through status table
 
