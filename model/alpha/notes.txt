@@ -10,4 +10,16 @@ ternary
     -prey to location
     -biome to location
 
+Disjoint inheritance
+    - ungulates inherits from prey
+    - rodents inherits from prey
+    - a rodent and an ungulate cannot be the same prey
+
+Composite attribute
+    - gps coordinate has lat long which are composite attributes of position
+
+Multivalued attribute:
+	a wolf is assigned specific trackers, but there can be no trackers assigned to a wolf as well, as well as many.
+
+
 
